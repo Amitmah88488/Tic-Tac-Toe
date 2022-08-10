@@ -6,6 +6,7 @@ board = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 def display_board(board):
     # The function accepts one parameter containing the board's current status
     # and prints it out to the console.
+Hello world
 
     print("+-------" * 3, "+", sep="")
     for row in range(3):
